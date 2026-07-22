@@ -18,6 +18,6 @@ A customized+improved J. Bruce Fields' [openwrt-recording](https://github.com/bf
 
 ## :construction: In progress
 
-:white_square_button: (JSON-file) channels labels;
+:white_square_button: (JSON-file) channels labeling;
 
 :white_square_button: Input levels live monitoring LuCI (sub)page.
