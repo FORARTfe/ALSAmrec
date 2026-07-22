@@ -1,6 +1,6 @@
 <img width="100%" alt="Temporary Project Logo" src="https://github.com/user-attachments/assets/70db7365-3594-4d8d-9591-663f5492af6d" />
 
-A J. Bruce Fields' [openwrt-recording](https://github.com/bfields/openwrt-recording#readme) script improvement to be more generic/usable. <a href="https://badges.credtent.org/creative-origin"><img align="right" width="10%" src="https://badges.credtent.org/assets/AAC-PN4Wnktv.svg" alt="Generative AI tools have been used to refine the work of a human creator."/></a>
+A J. Bruce Fields' [openwrt-recording](https://github.com/bfields/openwrt-recording#readme) script customization+improvement to be more generic/usable. <a href="https://badges.credtent.org/creative-origin"><img align="right" width="10%" src="https://badges.credtent.org/assets/AAC-PN4Wnktv.svg" alt="Generative AI tools have been used to refine the work of a human creator."/></a>
 
 ## :sound: Features
 
