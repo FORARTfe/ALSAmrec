@@ -12,10 +12,12 @@ A customized+improved J. Bruce Fields' [openwrt-recording](https://github.com/bf
 
 :white_check_mark: remote - webcommand - start/stop/status/probe ([Home App for Android™](https://github.com/Domi04151309/HomeApp#readme)-compatible too);
 
-:white_check_mark: automated tracks splitting script (on Windows too).
+:white_check_mark: automated tracks splitting script (on Windows too);
 
 :white_check_mark: LuCi dedicated page (with manual audio device probing).
 
 ## :construction: In progress
+
+:white_square_button: (JSON-file) channels labels;
 
 :white_square_button: Input levels live monitoring LuCI (sub)page.
